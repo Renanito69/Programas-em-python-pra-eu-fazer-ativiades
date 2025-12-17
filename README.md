@@ -5,7 +5,7 @@
 | Nº | Desafio | Dificuldade | Status |
 |---:|---------|-------------|--------|
 | 1 | Agenda Simples (contatos em lista) | ⭐ Fácil |  **Concluído** ✔ |
-| 2 | Sistema de Login com arquivo .txt | ⭐⭐ Médio | Em espera |
+| 2 | Sistema de Login com arquivo .txt | ⭐⭐ Médio | **Concluído** ✔ |
 | 3 | Pedra, Papel e Tesoura (placar + rounds) | ⭐ Fácil | Em espera |
 | 4 | Organizador de Arquivos (os + shutil) | ⭐⭐⭐ Difícil | Em espera |
 | 5 | Gerador de Senhas configurável | ⭐⭐ Médio | Em espera |
