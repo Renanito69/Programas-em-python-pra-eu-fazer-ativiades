@@ -19,7 +19,7 @@
 | 13 | Conversor de Arquivos (txt ↔ json ↔ csv) | ⭐⭐⭐ Difícil | Em espera |
 | 14 | Ferramenta de Backup ZIP | ⭐⭐ Médio | Em espera |
 | 15 | Web Scraper (notícias em CSV) | ⭐⭐⭐ Difícil | Em espera |
-| 16 | Gerenciador de Senhas Criptografadas | ⭐⭐⭐ Difícil | Em espera |
+| 16 | Gerenciador de Senhas Criptografadas | ⭐⭐⭐ Difícil | **Concluído** ✔ |
 
 ---
 
