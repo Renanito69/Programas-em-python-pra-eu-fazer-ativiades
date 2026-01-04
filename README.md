@@ -13,7 +13,7 @@
 | 7 | Lista de Tarefas com prioridade + arquivo | ⭐⭐ Médio | Em espera |
 | 8 | Sistema de Gerenciamento de Tarefas com Prioridade | ⭐⭐ Médio | Em espera |
 | 9 | Agenda de Contatos (JSON) | ⭐⭐ Médio | Em espera |
-| 10 | Sistema de Login com Hash (bcrypt/sha256) | ⭐⭐⭐ Difícil | Em espera |
+| 10 | Sistema de Login com Hash (bcrypt/sha256) | ⭐⭐⭐ Difícil | **Concluído** ✔ |
 | 11 | Calculadora Científica (histórico) | ⭐⭐ Médio | Em espera |
 | 12 | Organizador de Arquivos (versão 2 aprimorada) | ⭐⭐⭐ Difícil | Em espera |
 | 13 | Conversor de Arquivos (txt ↔ json ↔ csv) | ⭐⭐⭐ Difícil | Em espera |
