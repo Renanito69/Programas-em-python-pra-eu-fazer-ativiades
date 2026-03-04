@@ -28,7 +28,7 @@
 | Nº | Desafio | Dificuldade | Status |
 |---:|---------|-------------|--------|
 | 17 | Classe Conta Bancária Completa | ⭐⭐ Médio | Em espera |
-| 18 | Sistema de Biblioteca (objetos + relacionamentos) | ⭐⭐⭐ Difícil | Em espera |
+| 18 | Sistema de Biblioteca (objetos + relacionamentos) | ⭐⭐⭐ Difícil | Em desenvolvimento |
 | 19 | Sistema de RPG (POO + combate) | ⭐⭐⭐ Difícil | Em espera |
 | 20 | RPG por Terminal (classes + inventário + turnos) | ⭐⭐⭐ Difícil | Em espera |
 
